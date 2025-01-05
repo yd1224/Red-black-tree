@@ -115,6 +115,7 @@ public class RedBlackTree
         if (node == Nil)
             return;
         node.Object.Value = value;
+        searchComparisons = 0;
     }
 
 
