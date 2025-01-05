@@ -1,0 +1,13 @@
+C:\Users\Techniker\source\repos\RedBlackTreeDb\RedBlackTreeDb\bin\Debug\RedBlackTreeDb.exe.config
+C:\Users\Techniker\source\repos\RedBlackTreeDb\RedBlackTreeDb\bin\Debug\RedBlackTreeDb.exe
+C:\Users\Techniker\source\repos\RedBlackTreeDb\RedBlackTreeDb\bin\Debug\RedBlackTreeDb.pdb
+C:\Users\Techniker\source\repos\RedBlackTreeDb\RedBlackTreeDb\obj\Debug\RedBlackTreeDb.csproj.AssemblyReference.cache
+C:\Users\Techniker\source\repos\RedBlackTreeDb\RedBlackTreeDb\obj\Debug\RedBlackTreeDb.Form1.resources
+C:\Users\Techniker\source\repos\RedBlackTreeDb\RedBlackTreeDb\obj\Debug\RedBlackTreeDb.Properties.Resources.resources
+C:\Users\Techniker\source\repos\RedBlackTreeDb\RedBlackTreeDb\obj\Debug\RedBlackTreeDb.csproj.GenerateResource.cache
+C:\Users\Techniker\source\repos\RedBlackTreeDb\RedBlackTreeDb\obj\Debug\RedBlackTreeDb.csproj.CoreCompileInputs.cache
+C:\Users\Techniker\source\repos\RedBlackTreeDb\RedBlackTreeDb\obj\Debug\RedBlackTreeDb.exe
+C:\Users\Techniker\source\repos\RedBlackTreeDb\RedBlackTreeDb\obj\Debug\RedBlackTreeDb.pdb
+C:\Users\Techniker\source\repos\RedBlackTreeDb\RedBlackTreeDb\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Techniker\source\repos\RedBlackTreeDb\RedBlackTreeDb\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Techniker\source\repos\RedBlackTreeDb\RedBlackTreeDb\obj\Debug\RedBlack.CACF5015.Up2Date
