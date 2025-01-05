@@ -66,7 +66,7 @@
             this.IdTableColumn.ReadOnly = true;
 
             // NameTableColumn
-            this.NameTableColumn.HeaderText = "Name";
+            this.NameTableColumn.HeaderText = "Value";
             this.NameTableColumn.MinimumWidth = 8;
             this.NameTableColumn.Name = "NameTableColumn";
             this.NameTableColumn.Width = 300;
